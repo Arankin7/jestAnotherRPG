@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Arankin7/jestAnotherRPG#readme",
   "devDependencies": {
     "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
